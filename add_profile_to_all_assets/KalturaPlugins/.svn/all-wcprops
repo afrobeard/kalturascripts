@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/10238/DastorKTS/trunk/KalturaPlugins
+END
+KalturaAuditClientPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/10238/DastorKTS/trunk/KalturaPlugins/KalturaAuditClientPlugin.py
+END
+KalturaAnnotationClientPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/10238/DastorKTS/trunk/KalturaPlugins/KalturaAnnotationClientPlugin.py
+END
+KalturaContentDistributionClientPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/10238/DastorKTS/trunk/KalturaPlugins/KalturaContentDistributionClientPlugin.py
+END
+KalturaAdminConsoleClientPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/10238/DastorKTS/trunk/KalturaPlugins/KalturaAdminConsoleClientPlugin.py
+END
+KalturaFileSyncClientPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10238/DastorKTS/trunk/KalturaPlugins/KalturaFileSyncClientPlugin.py
+END
+KalturaShortLinkClientPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/10238/DastorKTS/trunk/KalturaPlugins/KalturaShortLinkClientPlugin.py
+END
+KalturaVirusScanClientPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/10238/DastorKTS/trunk/KalturaPlugins/KalturaVirusScanClientPlugin.py
+END
+KalturaDocumentClientPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10238/DastorKTS/trunk/KalturaPlugins/KalturaDocumentClientPlugin.py
+END
+KalturaMetadataClientPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/10238/DastorKTS/trunk/KalturaPlugins/KalturaMetadataClientPlugin.py
+END
+KalturaSystemPartnerClientPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/10238/DastorKTS/trunk/KalturaPlugins/KalturaSystemPartnerClientPlugin.py
+END
+KalturaKalturaInternalToolsClientPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10238/DastorKTS/trunk/KalturaPlugins/KalturaKalturaInternalToolsClientPlugin.py
+END
+KalturaStorageProfileClientPlugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/10238/DastorKTS/trunk/KalturaPlugins/KalturaStorageProfileClientPlugin.py
+END
