@@ -1,11 +1,11 @@
 import os;
 
-DEFAULT_KALTURA_PATH = "192.168.0.160"
-DEFAULT_PARTNER_ID = "99"
-DEFAULT_ADMIN_SECRET = "a5c1cb2c9bcd66b825db68533c3ec792"
-DEFAULT_SECRET = "8e81fdce8808cbf71b8dc6c8ee258842"
-DEFAULT_USER_NAME = "bali@acit.com"
-DEFAULT_ACTION_PROFILE_ID = 5
+DEFAULT_KALTURA_PATH = "kalturahost.com"
+DEFAULT_PARTNER_ID = "10"
+DEFAULT_ADMIN_SECRET = "asfasfasfasfasfasdfasfasdfasdf"
+DEFAULT_SECRET = "asfasdfasfasfasfdasfd"
+DEFAULT_USER_NAME = "xyz@pqr.com"
+DEFAULT_ACTION_PROFILE_ID = 5 #ProfileID to Apply
 
 def load_settings(SETTINGS):
     SETTINGS['KALTURA_PATH'] = os.environ.get('KALTURA_PATH', DEFAULT_KALTURA_PATH)
